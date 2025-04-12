@@ -13,7 +13,7 @@ import 'package:tailorshop/Tail.dart';
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
-    await tester.pumpWidget( TailorShopApp());
+    await tester.pumpWidget( const TailorShopApp());
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);

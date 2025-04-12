@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "888650730577",
+    "firebase_url": "https://diwage-default-rtdb.firebaseio.com",
+    "project_id": "diwage",
+    "storage_bucket": "diwage.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888650730577:android:33f1aefdc70bbb547b7c70",
+        "android_client_info": {
+          "package_name": "com.example.demophoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888650730577-54on4ciosb3re74q8cea6epesbafppl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIVkqJ4bw4JNI8Y6X7FTXkCnrBwpKrOjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888650730577-54on4ciosb3re74q8cea6epesbafppl9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888650730577-65h0aa596rv8ksn9c9ek3nmorn9j32t2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demophoto"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888650730577:android:23595d702e595a477b7c70",
+        "android_client_info": {
+          "package_name": "com.example.diwage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888650730577-54on4ciosb3re74q8cea6epesbafppl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIVkqJ4bw4JNI8Y6X7FTXkCnrBwpKrOjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888650730577-54on4ciosb3re74q8cea6epesbafppl9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888650730577-65h0aa596rv8ksn9c9ek3nmorn9j32t2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demophoto"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888650730577:android:c61fad3082e984137b7c70",
+        "android_client_info": {
+          "package_name": "com.example.tailorshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888650730577-54on4ciosb3re74q8cea6epesbafppl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIVkqJ4bw4JNI8Y6X7FTXkCnrBwpKrOjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888650730577-54on4ciosb3re74q8cea6epesbafppl9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888650730577-65h0aa596rv8ksn9c9ek3nmorn9j32t2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demophoto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
